@@ -13,6 +13,7 @@
     margin-top: 50px;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }   
 
 .cards-about{
@@ -21,12 +22,14 @@
 }   
 
 .cards-about-container{
-    width: 50%;
+    width: 40%;
     max-height: 300px;
     border: solid 1px #a2adad;
 }
 
 .cards-about-div{
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
 }   
