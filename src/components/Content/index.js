@@ -4,6 +4,8 @@ import Products from './Products'
 import About from './About'
 import Contact from './Contact'
 
+import './Content.css'
+
 export default function Content(){
     return (
         <main>

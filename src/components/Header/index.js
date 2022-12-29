@@ -1,4 +1,5 @@
 import React from "react";
+import './Header.css'
 // import { Link } from "react-router-dom";
 
 // import Products from "../Content/Products";
@@ -7,8 +8,8 @@ import React from "react";
 
 export default function Header() {
   return (
-    <header>
-      <div className="header-container">
+    <header className="header-container">
+      <div id="header-div" className="limit-section">
         <img src="assets/logo.png" alt="Oticas Vida logo" />
         <nav>
           <a href="#produtos">PRODUTOS</a>

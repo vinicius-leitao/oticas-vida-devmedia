@@ -4,7 +4,7 @@ export default function Contact(){
     return (
         <section>
             <div>
-                <h2>FALE CONOSCO</h2>
+                <h2 className='subtitles'>FALE CONOSCO</h2>
                 <p>Não perca tempo, venha conhecer uma de nossas lojas ou entre em contato através de nossas redes sociais ou da central de atendimento.</p>
                 <div>
                     <div>

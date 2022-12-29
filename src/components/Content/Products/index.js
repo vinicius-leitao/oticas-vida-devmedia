@@ -1,13 +1,15 @@
 import React from 'react'
 
+import './Products.css'
+
 export default function Products(){
     return (
-        <section>
-            <div>
-                <h2>Nossos produtos</h2>
+        <section id="products-container">
+            <div className="limit-section">
+                <h2 className='subtitles'>Nossos produtos</h2>
                 <p>Trabalhamos com óculos de grau, óculos de sol, lentes transition nos modelos masculino, feminino e infantil.</p>
                 <p>Todos os nossos preços são acessíveis e contam com a melhor qualidade do mercado.</p>
-                <div>
+                <div className='cards-container'>
                     <div className='cards'>
                         <h3>Óculos de grau</h3>
                         <img src='assets/oculos01.png' alt='Óculos de grau'/>
