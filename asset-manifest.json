@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/oticas-vida-dev/static/css/main.49a3fedc.css",
-    "main.js": "/oticas-vida-dev/static/js/main.df6ab8c7.js",
-    "static/js/787.12619fe8.chunk.js": "/oticas-vida-dev/static/js/787.12619fe8.chunk.js",
-    "static/media/capa.png": "/oticas-vida-dev/static/media/capa.44a9e1db5439c08db3da.png",
-    "index.html": "/oticas-vida-dev/index.html",
-    "main.49a3fedc.css.map": "/oticas-vida-dev/static/css/main.49a3fedc.css.map",
-    "main.df6ab8c7.js.map": "/oticas-vida-dev/static/js/main.df6ab8c7.js.map",
-    "787.12619fe8.chunk.js.map": "/oticas-vida-dev/static/js/787.12619fe8.chunk.js.map"
+    "main.css": "/oticas-vida-devmedia/static/css/main.721ab19b.css",
+    "main.js": "/oticas-vida-devmedia/static/js/main.b98d75d4.js",
+    "static/js/787.12619fe8.chunk.js": "/oticas-vida-devmedia/static/js/787.12619fe8.chunk.js",
+    "static/media/capa.png": "/oticas-vida-devmedia/static/media/capa.44a9e1db5439c08db3da.png",
+    "index.html": "/oticas-vida-devmedia/index.html",
+    "main.721ab19b.css.map": "/oticas-vida-devmedia/static/css/main.721ab19b.css.map",
+    "main.b98d75d4.js.map": "/oticas-vida-devmedia/static/js/main.b98d75d4.js.map",
+    "787.12619fe8.chunk.js.map": "/oticas-vida-devmedia/static/js/787.12619fe8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49a3fedc.css",
-    "static/js/main.df6ab8c7.js"
+    "static/css/main.721ab19b.css",
+    "static/js/main.b98d75d4.js"
   ]
 }
