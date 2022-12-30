@@ -3,8 +3,8 @@
     background: linear-gradient(47deg, #000113 0%, #04061D 80%, #04061D 100%);
     background-image: url('/public/assets/capa.png');
     background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
+    background-size: cover;
+    background-position: center center;
     height: 80vh;
 }
 
