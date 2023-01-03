@@ -51,3 +51,21 @@ ul li{
     text-align: left;
     margin: 5px;
 }
+
+@media screen and (max-width: 768px){
+    #products-container{
+        padding: 60px 20px;
+    }
+
+    .cards h3{
+        font-size: 22px;
+    }
+
+    .cards img{
+        max-height: 100px;
+    }
+
+    .cards p{
+        font-size: 16px;
+    }
+}

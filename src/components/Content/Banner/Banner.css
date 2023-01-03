@@ -37,3 +37,13 @@
     line-height: 70px;
     letter-spacing: 5px;
 }
+
+@media screen and (max-width: 768px){
+    #banner-info h1{
+        font-size: 40px;
+        max-width: 350px;
+    }
+    #banner-info p{
+        font-size: 20px;
+    }
+}
